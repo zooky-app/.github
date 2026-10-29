@@ -4,26 +4,26 @@
 
 Zooky is a study app for university engineering students, built in Australia. We're building a path through the engineering degree with short, interactive study sessions and practice that helps students understand each step.
 
-Visit **[zooky.net](https://zooky.net)** or explore the **[app repository](https://github.com/zooky-app/app)**.
+Explore Zooky at **[zooky.net](https://zooky.net)**.
 
 ## Engineering. One Round at a time.
 
 - **Short Rounds:** 3–8 minute sessions combining worked examples, practice, and review cards.
-- **Step-checked practice:** fresh numbers, deterministic solvers, and feedback that identifies mistakes.
+- **Step-checked practice:** work through problems with fresh numbers and feedback that helps you spot mistakes.
 - **Spaced review and mock exams:** revisit what needs attention and practice answering exam-style questions unaided.
 - **A campus for your degree:** units, topics, lessons, and coverage in one place.
 - **Study planning and tools:** a planner, exam countdowns, notes, bookmarks, calculators, and reference material.
 
-Our standard is real ability: students should be able to answer a topic's exam-style questions without assistance. Solver-backed answers are deterministic; optional AI support helps explain and guide rather than determine correctness.
+The goal is understanding you can use on your own: work through an example, try a problem, and come back to it until the steps make sense.
 
-## Behind the app
+## Built for student life
 
-Zooky uses Next.js and TypeScript, PostgreSQL with Drizzle, and Better Auth. KaTeX and interactive widgets support the learning material; spaced review uses FSRS. The app is installable as a PWA, with offline lessons and review cards.
+Fit a Round between classes, revisit a tricky topic, or prepare for an upcoming exam. Zooky brings lessons, practice, review, and planning together so you can find your next step.
 
-The [app repository](https://github.com/zooky-app/app) contains the implementation, learning content, documentation, and development instructions. Coverage is growing, and readiness varies by topic.
+Engineering coverage is growing. Check the app for the topics and study activities currently available for your units.
 
 ## Say hello to Zooky
 
 Our violet guide—with a yellow antenna, cream belly, and pink cheeks—helps students find their way through lessons and practice. Cute visuals, serious learning, and a little university-life humour.
 
-For bugs, content corrections, or ideas, use the [app issue tracker](https://github.com/zooky-app/app/issues). Include the topic and a reproducible example when reporting a learning-content problem.
+**[Visit Zooky](https://zooky.net)** to explore the app and find your next Round.
